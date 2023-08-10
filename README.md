@@ -3,7 +3,7 @@ Uzdevumi MarkDown -  Grūtībā Level 0
 
 # Šis ir virsraksts
 
-Šis ir trekns teksts
+**Šis ir trekns teksts**
 
 ---
 
@@ -26,10 +26,10 @@ Uzdevumi MarkDown -  Grūtībā Level 0
 
 --- 
 
- Cilvēks  Pilsēta 
- --  -- 
- Pēteris Vējš  Liepāja 
- Jānis Ezers  Rēzekne 
+| Cilvēks | Pilsēta |
+| -- | -- |
+| Pēteris Vējš  Liepāja |
+| Jānis Ezers | Rēzekne |
 
 
 --- 
